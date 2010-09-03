@@ -27,7 +27,12 @@ Notes
     I used gbdfed to create and update this font.
 
 Changes
-    xxxx-xx-xx (v0.3)
+    2009-03-23 (v0.4)
+      - Fixed accented e and E to match the non-accented one.
+    2009-03-11 (v0.3)
       - Better parenthesis on 12.
+      - Better accented i's
+      - Support for 'oe' and 'OE'
+      - Updated e, f, g, y.
     2009-02-14 (v0.2)
       - Added termentis 12
